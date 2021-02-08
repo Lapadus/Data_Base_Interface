@@ -1,0 +1,24 @@
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.exe.config
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.pdb
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.Form1.resources
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.CopyComplete
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.pdb
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.exe.config
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle_connection.pdb
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\bin\x64\Debug\Oracle.DataAccess.dll
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.Form1.resources
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.Properties.Resources.resources
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.csproj.CopyComplete
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\RalucaL\Facultate\Materii\Anul 2\Semestrul 1\BD\Curs\Oracle_connection\Oracle_connection\obj\x64\Debug\Oracle_connection.pdb

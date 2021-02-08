@@ -1,0 +1,12 @@
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\Debug\Oracle_connection.exe.config
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\Debug\Oracle_connection.pdb
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.csprojAssemblyReference.cache
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.Form1.resources
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.Properties.Resources.resources
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.csproj.GenerateResource.cache
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.csproj.CoreCompileInputs.cache
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.csproj.CopyComplete
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.exe
+C:\Users\Raluca\Desktop\Oracle_connection\Oracle_connection\obj\Debug\Oracle_connection.pdb
